@@ -2,10 +2,10 @@ body{font-family: 'Pathway Gothic One', sans-serif;}
 
 
 h2{
-    text-align: center;
+    text-align: left;
     font-weight: 700;
-    color: rgb(50, 57, 65);
-
+    color: rgb(46, 40, 88);
+    
 }
 
 h3{
@@ -30,7 +30,7 @@ p{
 
 
 .header-bg{
-    background-color:rgba(255, 229, 182, 0.445);
+    background-color:rgba(248, 224, 178, 0.37);
     
 }
 
@@ -88,7 +88,7 @@ p{
     background-color: rgba(255, 229, 182, 0.274);
     
     padding: 3%;
-    height: 250px;
+    height: 300px;
 }
 .label-size{
     font-size: 30px;
